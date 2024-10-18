@@ -46,13 +46,9 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramneek82810&layout=normal&theme=radical" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramneek82810&theme=radical)
-    </td>
-  </tr>
 </table>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramneek82810&theme=radical) 
 
 ---
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a922d272-39ca-47fa-9103-383b221c4ede)
