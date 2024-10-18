@@ -11,6 +11,7 @@
 Passionate about harnessing the power of Artificial Intelligence and Machine Learning to drive innovation and solve complex challenges. Currently pursuing a Bachelor of Technology in Computer Science, specializing in AI and ML.
 
 ✨ I thrive on leveraging cutting-edge technology to transform insights into actionable solutions that make a difference! 💡💻
+---
 
 🎓 My Learning Experience Journey 📚
 - B.Tech in Computer Science 🎓 - Chandigarh Group of Colleges, Jhanjeri (Expected '26)
@@ -19,11 +20,13 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 - AI/ML for Geodata Analysis 🌍 - ISRO ('24) (Completed with certificate)
 - Formal Language and Automata Theory 📖 - Ongoing
 - Various online courses and certifications in machine learning and AI applications. 🎉
+---
 
 
 👷 What I'm Currently Working On 🔍
 - Pneumonia Detection on Chest X-ray Images Using Deep Learning 🩺 - Advanced AI project with image analysis. 
 - Classifying Banknotes 💵 - Building an AI detector for authentic vs counterfeit notes.
+---
 
 
 📈 GitHub Activity:
@@ -47,7 +50,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 - Breast Cancer Classification and Detection 🧬 - GitHub project focusing on detection accuracy and model optimization.
 - Handwritten Digit Classification ✍️ - Implementing a Convolutional Neural Network (CNN) with the MNIST dataset.
 - Classifying Banknotes as Authentic or Counterfeit 💳 - Utilizing Gaussian Naive Bayes technique.
-
+---
 
 🏆 My Latest Certifications 📜
 - Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT 🥇 - Udemy
@@ -55,13 +58,13 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 - AI/ML for Geodata Analysis 🛰 - Indian Space Research Organization (ISRO)
 - Artificial Intelligence with ML 🔍 - Pregrad
 - Various online courses and certificates in machine learning and AI applications. 🎓
-
+---
 
 🥇 Competitions 🎉
 - InnoSprint 🎊 - Participated in the hackathon at Chandigarh Group of Colleges, Jhanjeri.
 - NextQuantum 🚀 - Participated in the hackathon at Pyramid College of Business and Technology, Jalandhar.
 - Hack-n-Win 🏆 - Participated in the hackathon at Chandigarh Group of Colleges, Jhanjeri.
-
+---
 
 💻 My Skill Set ⚙️
 <p align="center">
