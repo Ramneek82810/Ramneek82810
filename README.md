@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/ArtificialIntelligenceEngineer=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/🌟Hi+there,I+am+Ramneek+Kaur;Always+Learning;Artificial+Intelligence+Engineer;=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 RAMNEEK KAUR 🌟✨
