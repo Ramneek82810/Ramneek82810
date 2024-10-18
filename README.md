@@ -26,7 +26,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 ## 👷 WHAT I'M CURRENTLY WORKING ON🔍
 - Pneumonia Detection on Chest X-ray Images Using Deep Learning 🩺 - Advanced AI project with image analysis. 
-- Classifying Banknotes 💵 - Building an AI detector for authentic vs counterfeit notes.
+- Skin Cancer Detection AI Model 🧬 - Developing an AI model for accurate detection and classification of skin cancer from dermoscopic images.
 ---
 
 
