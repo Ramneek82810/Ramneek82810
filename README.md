@@ -30,7 +30,13 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
 ---
 
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42455062267468656d653d7261646963616c266c61796f75743d636f6d70616374](https://github.com/user-attachments/assets/8e702589-a806-45ac-9ee2-e24e47f5a958) ![Screenshot 2024-10-19 000605](https://github.com/user-attachments/assets/cc47406d-232e-4e09-bebb-944b8e57fc5d)|
+![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42455062267468656d653d7261646963616c266c61796f75743d636f6d70616374](https://github.com/user-attachments/assets/8e702589-a806-45ac-9ee2-e24e47f5a958) 
+![Screenshot 2024-10-19 000605](https://github.com/user-attachments/assets/cc47406d-232e-4e09-bebb-944b8e57fc5d)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e702589-a806-45ac-9ee2-e24e47f5a958" width="300" alt="Image 1"/>
+  <img src="https://github.com/user-attachments/assets/cc47406d-232e-4e09-bebb-944b8e57fc5d" width="300" alt="Image 2"/>
+</p>
 
 ---
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a922d272-39ca-47fa-9103-383b221c4ede)
