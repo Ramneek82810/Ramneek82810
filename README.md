@@ -14,7 +14,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 ---
 
-🎓 MY LEARNING EXPERIENCE JOURNEY 📚
+## 🎓 MY LEARNING EXPERIENCE JOURNEY 📚
 - B.Tech in Computer Science 🎓 - Chandigarh Group of Colleges, Jhanjeri (Expected '26)
 - Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT 🧠 - Udemy ('24)
 - CS50's Introduction to Artificial Intelligence with Python 🍏 - Harvard University ('24)
@@ -24,13 +24,13 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 ---
 
 
-👷 WHAT I'M CURRENTLY WORKING ON🔍
+## 👷 WHAT I'M CURRENTLY WORKING ON🔍
 - Pneumonia Detection on Chest X-ray Images Using Deep Learning 🩺 - Advanced AI project with image analysis. 
 - Classifying Banknotes 💵 - Building an AI detector for authentic vs counterfeit notes.
 ---
 
 
-📈 GITHUB ACTIVITY:
+## 📈 GITHUB ACTIVITY:
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
 ---
 
@@ -51,13 +51,13 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 
 
-🌱 MY LATEST PROJECTS 🚀
+## 🌱 MY LATEST PROJECTS 🚀
 - Breast Cancer Classification and Detection 🧬 - GitHub project focusing on detection accuracy and model optimization.
 - Handwritten Digit Classification ✍️ - Implementing a Convolutional Neural Network (CNN) with the MNIST dataset.
 - Classifying Banknotes as Authentic or Counterfeit 💳 - Utilizing Gaussian Naive Bayes technique.
 ---
 
-🏆 MY LATEST CERTIFICATIONS 📜
+## 🏆 MY LATEST CERTIFICATIONS 📜
 - Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT 🥇 - Udemy
 - CS50's Introduction to Artificial Intelligence with Python 📚 - Harvard University
 - AI/ML for Geodata Analysis 🛰 - Indian Space Research Organization (ISRO)
@@ -65,13 +65,13 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 - Various online courses and certificates in machine learning and AI applications. 🎓
 ---
 
-🥇 COMPETITIONS 🎉
+## 🥇 COMPETITIONS 🎉
 - InnoSprint 🎊 - Participated in the hackathon at Chandigarh Group of Colleges, Jhanjeri.
 - NextQuantum 🚀 - Participated in the hackathon at Pyramid College of Business and Technology, Jalandhar.
 - Hack-n-Win 🏆 - Participated in the hackathon at Chandigarh Group of Colleges, Jhanjeri.
 ---
 
-💻 MY SKILL SET ⚙️
+## 💻 MY SKILL SET ⚙️
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-ramneek.kaur-0xD1.svg">
 </p>
