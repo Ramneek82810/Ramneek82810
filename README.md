@@ -1,4 +1,4 @@
-![Bottom_up (1)](https://github.com/user-attachments/assets/2066fa57-b73d-4d8d-907c-04b3824fd5dc)
+
 ![header_](https://github.com/user-attachments/assets/a3869a1b-ceac-4184-9d5a-34abc80e51ac)
 RAMNEEK KAUR 🌟✨
 
