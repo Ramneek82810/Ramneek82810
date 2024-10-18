@@ -33,8 +33,8 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e702589-a806-45ac-9ee2-e24e47f5a958" width="300" alt="Image 1"/>
-  <img src="https://github.com/user-attachments/assets/cc47406d-232e-4e09-bebb-944b8e57fc5d" width="300" alt="Image 2"/>
+  <img src="https://github.com/user-attachments/assets/8e702589-a806-45ac-9ee2-e24e47f5a958" width="500" alt="Image 1"/>
+  <img src="https://github.com/user-attachments/assets/cc47406d-232e-4e09-bebb-944b8e57fc5d" width="500" alt="Image 2"/>
 </p>
 
 ---
