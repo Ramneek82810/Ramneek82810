@@ -3,7 +3,7 @@
 ![header_](https://github.com/user-attachments/assets/a3869a1b-ceac-4184-9d5a-34abc80e51ac)
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%E2%9C%A8+I+am+Ramneek+Kaur+%E2%9C%A8;Welcome+to+my+profile!+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8F%86;Artificial+Intelligence+and+Machine+Learning+Engineer+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%E2%9C%A8+I+am+Ramneek+Kaur+%E2%9C%A8;Welcome+to+my+profile!+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 🚀 Innovator at Heart
 Passionate about harnessing the power of Artificial Intelligence and Machine Learning to drive innovation and solve complex challenges. Currently pursuing a Bachelor of Technology in Computer Science, specializing in AI and ML.
