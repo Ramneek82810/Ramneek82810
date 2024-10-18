@@ -1,19 +1,5 @@
 <h1 align="center">🌟 Hello, Innovators! Welcome to My GitHub Playground! 🚀✨</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-ramneek.kaur-0xD1.svg">
-</p>
-
-| **Property**                             | **Data**                                                                                                              |
-|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) |
-| **Domain Knowledge**                     | ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-065535?style=flat) ![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-065535?style=flat) ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-065535?style=flat) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-065535?style=flat) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-065535?style=flat) ![Algorithm Design](https://img.shields.io/badge/Algorithm%20Design-065535?style=flat) |
-| **CI / CD**                              | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab) |
-| **Databases**                            | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite) |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter](https://img.shields.io/badge/Jupyter-FA743E?style=flat&logo=jupyter) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A693?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv) |
-
----
-
 ![header_](https://github.com/user-attachments/assets/a3869a1b-ceac-4184-9d5a-34abc80e51ac)
 RAMNEEK KAUR 🌟✨
 
@@ -58,23 +44,19 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 
 💻 My Skill Set ⚙️
-- Frameworks, Platforms, and Libraries:
-Anaconda, TensorFlow, PyTorch, Keras
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-ramneek.kaur-0xD1.svg">
+</p>
 
-- Databases:
-MySQL, PostgreSQL, SQLite
+| **Property**                             | **Data**                                                                                                              |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Language / IDE**                       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) |
+| **Domain Knowledge**                     | ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-065535?style=flat) ![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-065535?style=flat) ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-065535?style=flat) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-065535?style=flat) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-065535?style=flat) ![Algorithm Design](https://img.shields.io/badge/Algorithm%20Design-065535?style=flat) |
+| **CI / CD**                              | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab) |
+| **Databases**                            | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite) |
+| **Machine Learning / Deep Learning frameworks** | ![Jupyter](https://img.shields.io/badge/Jupyter-FA743E?style=flat&logo=jupyter) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A693?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv) |
 
-- IDEs/Editors:
-PyCharm, Jupyter Notebook, Visual Studio Code, Google Colab
-
-- Languages:
-Python, R, Java, HTML/CSS, JavaScript, C and C++
-
-- ML/DL:
-NumPy, Pandas, Matplotlib, Scikit-learn
-
-- Developer/Forums:
-Kaggle, GitHub, LeetCode
+---
 
 
 🤝 Connect with Me 🌐
