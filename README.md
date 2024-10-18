@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hello, Innovators! Welcome to My GitHub Playground! 🚀✨</h1>
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)<h1 align="center">🌟 Hello, Innovators! Welcome to My GitHub Playground! 🚀✨</h1>
 
 ![header_](https://github.com/user-attachments/assets/a3869a1b-ceac-4184-9d5a-34abc80e51ac)
 
@@ -26,6 +26,9 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 - Classifying Banknotes 💵 - Building an AI detector for authentic vs counterfeit notes.
 
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a922d272-39ca-47fa-9103-383b221c4ede)
+
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
+
 
 🌱 My Latest Projects 🚀
 - Breast Cancer Classification and Detection 🧬 - GitHub project focusing on detection accuracy and model optimization.
