@@ -1,4 +1,6 @@
 RAMNEEK KAUR 🌟✨
+![header_](https://github.com/user-attachments/assets/a3869a1b-ceac-4184-9d5a-34abc80e51ac)
+
 
 🚀 Innovator at Heart
 Passionate about harnessing the power of Artificial Intelligence and Machine Learning to drive innovation and solve complex challenges. Currently pursuing a Bachelor of Technology in Computer Science, specializing in AI and ML.
