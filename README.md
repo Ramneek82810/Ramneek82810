@@ -15,7 +15,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 
 👷 What I'm Currently Working On 🔍
-- Skin Cancer Classification 🩺 - Advanced AI project with image analysis.
+- Pneumonia Detection on Chest X-ray Images Using Deep Learning 🩺 - Advanced AI project with image analysis. 
 - Classifying Banknotes 💵 - Building an AI detector for authentic vs counterfeit notes.
 
 
