@@ -11,6 +11,7 @@
 Passionate about harnessing the power of Artificial Intelligence and Machine Learning to drive innovation and solve complex challenges. Currently pursuing a Bachelor of Technology in Computer Science, specializing in AI and ML.
 
 ✨ I thrive on leveraging cutting-edge technology to transform insights into actionable solutions that make a difference! 💡💻
+
 ---
 
 🎓 My Learning Experience Journey 📚
