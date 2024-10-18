@@ -63,6 +63,6 @@ Kaggle, GitHub, LeetCode
 
 
 🤝 Connect with Me 🌐
-- LinkedIn: ramneek-kaur 💼
-- GitHub: Ramneek82810 🖥️
+- LinkedIn: https://www.linkedin.com/in/ramneek-kaur-1b6a6725a/ 💼
+- GitHub: https://github.com/Ramneek82810 🖥️
 - E-mail: ramneek82810@gmail.com 📧
