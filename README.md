@@ -60,6 +60,6 @@ Kaggle, GitHub, LeetCode
 
 
 🤝 Connect with Me 🌐
-LinkedIn: ramneek-kaur 💼
-GitHub: Ramneek82810 🖥️
-E-mail: ramneek82810@gmail.com 📧
+- LinkedIn: ramneek-kaur 💼
+- GitHub: Ramneek82810 🖥️
+- E-mail: ramneek82810@gmail.com 📧
