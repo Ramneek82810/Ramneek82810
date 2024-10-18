@@ -33,9 +33,10 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 📈 GITHUB ACTIVITY:
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
 ---
-
 ![Ramneek Kaur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramneek82810&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramneek82810&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramneek82810&layout=compact&theme=radical&card_width=400)
+
 
 ---
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a922d272-39ca-47fa-9103-383b221c4ede)
