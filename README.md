@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hello, Innovators! Welcome to My GitHub Playground! 🚀✨</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-andrej.marinchenko-0xD1.svg">
+  <img src="https://img.shields.io/badge/TryHackMe-ramneek.kaur-0xD1.svg">
 </p>
 
 | **Property**                             | **Data**                                                                                                              |
