@@ -30,7 +30,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
 ---
 ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42455062267468656d653d7261646963616c266c61796f75743d636f6d70616374](https://github.com/user-attachments/assets/6ece46ee-c6cc-4667-b9ac-1cadf14b5b30)
-![Uplo
+![Up
       <svg
         width="467"
         height="195"
@@ -40,8 +40,8 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Ramneek Kaur's GitHub Stat, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 1K, Total Commits  : 150, Total Repositories: 10, Total Projects: 13 </desc>
+        <title id="titleId">Andrej Marinchenko's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 4293, Total Commits  : 5005, Total PRs: 37, Total Issues: 14, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -261,8 +261,8 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
   
         </g>
       </svg>
-    ading 68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d424550622673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6.svg…]()
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d424550622673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6](https://github.com/user-attachments/assets/4ce95ae8-a491-465f-961d-091d0e43cfa5)
+    loading 68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d424550622673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6.svg…]()
+
 
 ---
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a922d272-39ca-47fa-9103-383b221c4ede)
