@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Profile!</h1>
+<h1 align="center">🌟 Hello, Innovators! Welcome to My GitHub Playground! 🚀✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-andrej.marinchenko-0xD1.svg">
@@ -13,11 +13,6 @@
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter](https://img.shields.io/badge/Jupyter-FA743E?style=flat&logo=jupyter) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A693?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv) |
 
 ---
-
-### GitHub Activity Graph:
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&bg_color=000000&color=00E676&line=00E676&point=FFFFFF&area=true&hide_border=true">
-</p>
 
 ![header_](https://github.com/user-attachments/assets/a3869a1b-ceac-4184-9d5a-34abc80e51ac)
 RAMNEEK KAUR 🌟✨
