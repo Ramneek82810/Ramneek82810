@@ -34,7 +34,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
 ---
 
-![Ramneek Kaur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Ramneek Kaur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramneek82810&show_icons=true&theme=radical)
 
 
 <p align="center">
