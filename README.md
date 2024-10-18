@@ -36,6 +36,16 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 ![Ramneek Kaur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramneek82810&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramneek82810&layout=normal&theme=radical&card_width=400)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ramneek82810&show_icons=true&theme=radical" alt="Ramneek Kaur's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramneek82810&layout=normal&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a922d272-39ca-47fa-9103-383b221c4ede)
