@@ -31,13 +31,8 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 ---
 ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42455062267468656d653d7261646963616c266c61796f75743d636f6d70616374](https://github.com/user-attachments/assets/6ece46ee-c6cc-4667-b9ac-1cadf14b5b30)
 
-| Statistic | Value |
-|---|---|
-| Total Stars Earned | 4.3k |
-| Total Commits | 5k |
-| Total PRs | 37 |
-| Total Issues | 14 |
-| Contributed to (last year) | 0 |
+![DALL·E 2024-10-18 23 52 11 - A simple, basic GitHub stats card with a flat design and no tilted elements  The card should have a clean dark background, with bright pink for the he](https://github.com/user-attachments/assets/adc8cc3e-6c8a-4dc2-b695-c35f1e69ea4f)
+
 ---
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a922d272-39ca-47fa-9103-383b221c4ede)
 
