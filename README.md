@@ -6,9 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&width=435&lines=Hi+there!+%E2%9C%A8+I+am+Ramneek+Kaur+%E2%9C%A8;Welcome+to+my+profile!+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 
-## Current Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramneek82810&theme=radical)
 
 🚀 Innovator at Heart
 Passionate about harnessing the power of Artificial Intelligence and Machine Learning to drive innovation and solve complex challenges. Currently pursuing a Bachelor of Technology in Computer Science, specializing in AI and ML.
@@ -46,7 +44,13 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramneek82810&layout=normal&theme=radical" alt="Top Languages" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramneek82810&theme=radical)
+    </td>
+  </tr>
 </table>
+
 
 ---
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a922d272-39ca-47fa-9103-383b221c4ede)
