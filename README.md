@@ -86,14 +86,16 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 ---
 🤝 CONNECT WITH ME 🌐
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ramneek-kaur-1b6a6725a/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="mailto:ramneek82810@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gmail_Icon_%282020%29.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/ramneek_kaur_20/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="30" width="40" />
   </a>
 </p>
+
