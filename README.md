@@ -59,7 +59,8 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 ---
 Support me 🤝
-![68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67](https://github.com/user-attachments/assets/dbeb6542-a8f2-4549-92b8-ec0257fa52b7)
+![file](https://github.com/user-attachments/assets/d97934c9-dd1e-4824-b657-ece3c67b44cb)
+
 
 
 
