@@ -63,6 +63,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 ---
 
 ## 🏆 MY LATEST CERTIFICATIONS 📜
+- Summer Internship 🎓 - Vartopia Pvt. Ltd. 
 - Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT 🥇 - Udemy
 - CS50's Introduction to Artificial Intelligence with Python 📚 - Harvard University
 - AI/ML for Geodata Analysis 🛰 - Indian Space Research Organization (ISRO)
