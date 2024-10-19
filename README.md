@@ -26,7 +26,6 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 
 ## 👷 WHAT I'M CURRENTLY WORKING ON🔍
-- Pneumonia Detection on Chest X-ray Images Using Deep Learning 🩺 - Advanced AI project with image analysis. 
 - Skin Cancer Detection AI Model 🧬 - AI-driven model for the detection and classification of skin cancer through image analysis.
 ---
 
@@ -58,6 +57,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 ## 🌱 MY LATEST PROJECTS 🚀
 - Breast Cancer Classification and Detection 🧬 - GitHub project focusing on detection accuracy and model optimization.
+- Pneumonia Detection on Chest X-ray Images Using Deep Learning 🩺 - Advanced AI project with image analysis. 
 - Handwritten Digit Classification ✍️ - Implementing a Convolutional Neural Network (CNN) with the MNIST dataset.
 - Classifying Banknotes as Authentic or Counterfeit 💳 - Utilizing Gaussian Naive Bayes technique.
 ---
