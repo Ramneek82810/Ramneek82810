@@ -33,7 +33,6 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 ## 📈 GITHUB ACTIVITY:
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
 ---
-
 <table>
   <tr>
     <td>
@@ -44,6 +43,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramneek82810&theme=radical" alt="GitHub Streak" />
