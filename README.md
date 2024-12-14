@@ -57,7 +57,8 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 ## 🌱 MY LATEST PROJECTS 🚀
 - Breast Cancer Classification and Detection 🧬 - GitHub project focusing on detection accuracy and model optimization.
-- Pneumonia Detection on Chest X-ray Images Using Deep Learning 🩺 - Advanced AI project with image analysis. 
+- Pneumonia Detection on Chest X-ray Images Using Deep Learning 🩺 - Advanced AI project with image analysis.
+- Stock Market Dashboard 📈 - Interactive visualization of stock trends using live market data and analytics.
 - Handwritten Digit Classification ✍️ - Implementing a Convolutional Neural Network (CNN) with the MNIST dataset.
 - Classifying Banknotes as Authentic or Counterfeit 💳 - Utilizing Gaussian Naive Bayes technique.
 ---
