@@ -20,7 +20,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 - Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT 🧠 - Udemy ('24)
 - CS50's Introduction to Artificial Intelligence with Python 🍏 - Harvard University ('24)
 - AI/ML for Geodata Analysis 🌍 - ISRO ('24) (Completed with certificate)
-- Formal Language and Automata Theory 📖 - Ongoing
+- Formal Language and Automata Theory 📖 - Completed
 - Various online courses and certifications in machine learning and AI applications. 🎉
 ---
 
