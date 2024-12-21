@@ -75,6 +75,12 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 - InnoSprint 🎊 - Participated in the hackathon at Chandigarh Group of Colleges, Jhanjeri.
 - NextQuantum 🚀 - Participated in the hackathon at Pyramid College of Business and Technology, Jalandhar.
 - Hack-n-Win 🏆 - Participated in the hackathon at Chandigarh Group of Colleges, Jhanjeri.
+  
+---
+
+## 🏆 GITHUB TROPHIES
+![](https://github-profile-trophy.vercel.app/?username=Ramneek82810&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 
 ## 💻 MY SKILL SET ⚙️
@@ -89,11 +95,6 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 | **CI / CD**                              | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab) |
 | **Databases**                            | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite) |
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter](https://img.shields.io/badge/Jupyter-FA743E?style=flat&logo=jupyter) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A693?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv) |
-
----
-
-## 🏆 GITHUB TROPHIES
-![](https://github-profile-trophy.vercel.app/?username=Ramneek82810&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
