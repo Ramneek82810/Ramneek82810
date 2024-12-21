@@ -91,6 +91,19 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter](https://img.shields.io/badge/Jupyter-FA743E?style=flat&logo=jupyter) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A693?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv) |
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ramneek82810&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ramneek82810&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramneek82810&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ramneek82810&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
 ## 🤝 CONNECT WITH ME 🌐
 
 <p align="left">
