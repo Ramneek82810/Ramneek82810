@@ -26,7 +26,7 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 
 ## 👷 WHAT I'M CURRENTLY WORKING ON🔍
-- Full-Stack Website with AI Integration - will be building a fully functional website that will include AI features, such as recommendation systems or chatbots.
+- Full-Stack Website with AI Integration - will be building a fully functional website 🌐 that will include AI features 🤖, such as recommendation systems 💡 or chatbots 💬.
   
 ---
 
