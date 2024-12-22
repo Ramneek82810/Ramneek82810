@@ -26,7 +26,8 @@ Passionate about harnessing the power of Artificial Intelligence and Machine Lea
 
 
 ## 👷 WHAT I'M CURRENTLY WORKING ON🔍
-- Skin Cancer Detection AI Model 🧬 - AI-driven model for the detection and classification of skin cancer through image analysis.
+- Full-Stack Website with AI Integration - will be building a fully functional website that will include AI features, such as recommendation systems or chatbots.
+  
 ---
 
 
