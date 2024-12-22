@@ -10,7 +10,7 @@
 
 🚀 Innovator at Heart
 
-Driven by a deep passion for leveraging Artificial Intelligence and Machine Learning to foster innovation and address complex challenges. Currently pursuing a Bachelor of Technology in Computer Science with a specialization in AI and ML, focused on developing cutting-edge solutions and advancing the field.
+Dedicated to applying Artificial Intelligence and Machine Learning to drive innovation and tackle complex problems. 
 
 ✨ I thrive on leveraging cutting-edge technology to transform insights into actionable solutions that make a difference! 💡💻
 
