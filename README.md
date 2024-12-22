@@ -10,7 +10,7 @@
 
 🚀 Innovator at Heart
 
-Dedicated to applying Artificial Intelligence and Machine Learning to drive innovation and tackle complex problems. 
+Dedicated to applying Artificial Intelligence and Machine Learning to drive innovation and tackle complex problems. Currently advancing my expertise through a B.Tech in Computer Science, specializing in Artificial Intelligence and Machine Learning.
 
 ✨ I thrive on leveraging cutting-edge technology to transform insights into actionable solutions that make a difference! 💡💻
 
