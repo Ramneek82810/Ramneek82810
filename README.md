@@ -75,11 +75,9 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 ## 🥇 COMPETITIONS 🎉
 
--✨ InnoSprint – 🌟 Participated in a high-energy hackathon hosted by Chandigarh Group of Colleges, Jhanjeri, pushing innovation boundaries.
-
--🚀 NextQuantum – 💡 Stepped into the future at a cutting-edge hackathon organized by Pyramid College of Business and Technology, Jalandhar.
-
--🏆 Hack-n-Win – 🛠️ Competed with brilliance and creativity at the iconic hackathon by Chandigarh Group of Colleges, Jhanjeri, unlocking new potential.
+-🌟 InnoSprint – Innovated at CGC Jhanjeri's hackathon.
+-🚀 NextQuantum – Explored tech at Pyramid College, Jalandhar.
+-🏆 Hack-n-Win – Competed and excelled at CGC Jhanjeri.
   
 ---
 
