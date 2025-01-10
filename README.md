@@ -107,13 +107,13 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ramneek-kaur-1b6a6725a/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="filter: brightness(10) invert(1);"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="filter: brightness(100) invert(1);"/>
   </a>
   <a href="mailto:ramneek82810@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" style="filter: brightness(10) invert(1);"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" style="filter: brightness(100) invert(1);"/>
   </a>
   <a href="https://www.instagram.com/ramneek_kaur_20/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" style="filter: brightness(10) invert(1);"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" style="filter: brightness(100) invert(1);"/>
   </a>
 </p>
 
