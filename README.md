@@ -9,7 +9,7 @@
 
 
 
-🚀 Innovator at Heart
+🚀 Innovator at Heart ❤️
 
 Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to drive innovation and tackle complex problems. Currently advancing my expertise through a B.Tech in Computer Science 💻, specializing in Artificial Intelligence and Machine Learning.
 
