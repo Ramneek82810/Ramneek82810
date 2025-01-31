@@ -28,7 +28,6 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   
 ---
 
-
 ## 📈 GITHUB ACTIVITY
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
 ---
