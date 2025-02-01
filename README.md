@@ -20,6 +20,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 - AI/ML for Geodata Analysis 🌍 - ISRO ('24) (Completed with certificate)
 - Formal Language and Automata Theory 📖 - Completed
 - Various online courses and certifications in machine learning and AI applications. 🎉
+  
 ---
 
 
