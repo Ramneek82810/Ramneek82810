@@ -61,6 +61,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 ---
 
 ## 🏆 MY LATEST CERTIFICATIONS 📜
+
 - Summer Internship 🎓 - Vartopia Pvt. Ltd. 
 - Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT 🥇 - Udemy
 - CS50's Introduction to Artificial Intelligence with Python 📚 - Harvard University
@@ -70,11 +71,8 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 ---
 
 ## 🥇 COMPETITIONS 🎉
-
 -🌟 InnoSprint – Innovated at CGC Jhanjeri's hackathon.
-
 -🚀 NextQuantum – Explored tech at Pyramid College, Jalandhar.
-
 -🏆 Hack-n-Win – Competed and excelled at CGC Jhanjeri.
   
 ---
