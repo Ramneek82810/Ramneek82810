@@ -12,6 +12,8 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 ✨ I thrive on leveraging cutting-edge technology to transform insights into actionable solutions that make a difference! 💡💻
 
 ---
+🏆 LeetCode info 💻
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RamneekK?theme=dark)
 
 
