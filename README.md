@@ -15,7 +15,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 ## 🏆 LeetCode info 💻
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RamneekK?theme=dark)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/RamneekK/)
+![LeetCode February Badge](https://leetcode.com/static/images/badges/dcc-2025-2.png)
 
 
 
