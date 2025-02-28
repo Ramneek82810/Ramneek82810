@@ -14,13 +14,17 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 ---
 ## 🏆 LeetCode info 💻
 
-<table>
-  <tr>
-    <td><img src="https://leetcard.jacoblin.cool/RamneekK?theme=dark"></td>
-    <td><img src="https://leetcode.com/static/images/badges/dcc-2025-2.png" width="150" height="150"></td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/RamneekK?theme=dark">
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-2.png" width="150" height="150" style="animation: rotation 5s infinite linear;">
+</div>
 
+<style>
+  @keyframes rotation {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+</style>
 
 ---
 
