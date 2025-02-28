@@ -18,7 +18,6 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 <p align="center">
   <img src="https://leetcode.com/static/images/badges/dcc-2025-2.png" width="150" height="150" alt="LeetCode February Badge" style="animation: rotation 5s infinite linear;">
 </p>
-
 <style>
   @keyframes rotation {
     from { transform: rotate(0deg); }
