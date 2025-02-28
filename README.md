@@ -14,9 +14,9 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 ---
 ## 🏆 LeetCode info 💻
 
-<div style="display: flex; align-items: center;">
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/RamneekK?theme=dark">
-</div>
+</p>
 
 
 ---
