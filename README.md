@@ -83,6 +83,9 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 ![](https://github-profile-trophy.vercel.app/?username=Ramneek82810&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/RamneekK?theme=dark)
+
+---
 
 ## 💻 MY SKILL SET ⚙️
 
