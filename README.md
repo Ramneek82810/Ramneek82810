@@ -12,6 +12,10 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 ✨ I thrive on leveraging cutting-edge technology to transform insights into actionable solutions that make a difference! 💡💻
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/RamneekK?theme=dark)
+
+---
+
 
 ## 🎓 MY LEARNING EXPERIENCE JOURNEY 📚
 - B.Tech in Computer Science 🎓 - Chandigarh Group of Colleges, Jhanjeri (Expected '26)
@@ -81,9 +85,6 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 ## 🏆 GITHUB TROPHIES
 ![](https://github-profile-trophy.vercel.app/?username=Ramneek82810&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-![LeetCode Stats](https://leetcard.jacoblin.cool/RamneekK?theme=dark)
 
 ---
 
