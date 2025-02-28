@@ -13,6 +13,8 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RamneekK?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RamneekK?theme=dark&ext=heatmap)
+
 
 ---
 
