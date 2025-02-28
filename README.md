@@ -15,7 +15,6 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 ## 🏆 LeetCode info 💻
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RamneekK?theme=dark)
-![LeetCode February Badge](https://leetcode.com/static/images/badges/dcc-2025-2.png)
 <p align="center">
   <img src="PASTE_BADGE_URL_HERE" width="150" height="150" alt="LeetCode February Badge" style="animation: rotation 5s infinite linear;">
 </p>
