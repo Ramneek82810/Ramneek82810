@@ -38,7 +38,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 
 ## 👷 WHAT I'M CURRENTLY WORKING ON🔍
-- Full-Stack Website with AI Integration - will be building a fully functional website 🌐 that will include AI features 🤖, such as recommendation systems 💡 or chatbots 💬.
+- 🚁 AI-Powered Voice-Controlled Drone – A smart drone that responds to voice commands, integrates AI for object detection, and enables real-time autonomous navigation.
   
 ---
 
