@@ -102,6 +102,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   <img src="https://img.shields.io/badge/TryHackMe-ramneek.kaur-0xD1.svg">
 </p>
 
+
 | **Property**                             | **Data**                                                                                                              |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | **Language / IDE**                       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) |
