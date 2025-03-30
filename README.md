@@ -23,7 +23,6 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="150" height="150">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="150" height="150">
 </p>
-
 ---
 
 
