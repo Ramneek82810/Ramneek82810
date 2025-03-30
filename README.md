@@ -27,6 +27,34 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 ---
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/RamneekK?theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="150" height="150">
+  <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="150" height="150" class="rotate">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="150" height="150">
+</p>
+
+<style>
+  .rotate {
+    animation: spin 2s linear infinite;
+  }
+
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+</style>
+
+
+---
+
 
 ## 🎓 MY LEARNING EXPERIENCE JOURNEY 📚
 - B.Tech in Computer Science 🎓 - Chandigarh Group of Colleges, Jhanjeri (Expected '26)
