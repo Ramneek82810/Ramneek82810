@@ -18,6 +18,10 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/RamneekK?theme=dark">
 </p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/RamneekK?theme=dark" alt="LeetCode Stats" />
+</p>
+
 
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="100" height="100">
