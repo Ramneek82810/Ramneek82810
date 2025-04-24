@@ -27,9 +27,9 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100" height="100">
   <br>
   <br>
-
-  ### Study Plans 
-  <p align="center">
+  <br>
+  <br>
+  
   <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="100" height="100">
 
 </p>
