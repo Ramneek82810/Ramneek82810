@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Welcome To My GitHub Lab — where Innovation Intertwines with Imagination! ✨ </h1>
+![image](https://github.com/user-attachments/assets/fc8e0d1b-7bcc-43c1-9b67-9ae85026a1d4)<h1 align="center">🌟 Welcome To My GitHub Lab — where Innovation Intertwines with Imagination! ✨ </h1>
 
 ![header_](https://github.com/user-attachments/assets/a3869a1b-ceac-4184-9d5a-34abc80e51ac)
 
@@ -25,6 +25,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100" height="100">
   <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="100" height="100">
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100" height="100">
+  <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="100" height="100">
   <br>
   <br>
   <br>
