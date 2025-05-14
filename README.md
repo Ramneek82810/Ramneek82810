@@ -52,6 +52,40 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 
 
+<h3 align="center">🏆 My LeetCode Badge Collection</h3>
+
+<p align="center">
+  <!-- Row 1: Static Icons for First 5 Badges -->
+  <a href="https://leetcode.com/RamneekK/" title="30-Day Problem Solving Streak">
+    <img src="https://img.icons8.com/color/96/fire-element--v1.png" width="75" height="75" alt="30-Day Streak"/>
+  </a>
+  <a href="https://leetcode.com/RamneekK/" title="2550 Problems - Dedicated Learner">
+    <img src="https://img.icons8.com/fluency/96/target.png" width="75" height="75" alt="2550 Problems"/>
+  </a>
+  <a href="https://leetcode.com/RamneekK/" title="Algorithm Master">
+    <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="75" height="75" alt="Algorithm Master"/>
+  </a>
+  <a href="https://leetcode.com/RamneekK/" title="25100 XP Achieved">
+    <img src="https://img.icons8.com/fluency/96/rocket.png" width="75" height="75" alt="25100 XP"/>
+  </a>
+  <a href="https://leetcode.com/RamneekK/" title="Daily Coder">
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-coding-computer-programming-flaticons-flat-flat-icons.png" width="75" height="75" alt="Daily Coder"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Row 2: Keep original GIFs -->
+  <a href="https://leetcode.com/RamneekK/" title="LeetCode 75 Challenge">
+    <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="90" height="90" alt="LC75"/>
+  </a>
+  <a href="https://leetcode.com/RamneekK/" title="Top 100 Liked Questions Solved">
+    <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="90" height="90" alt="Top 100"/>
+  </a>
+</p>
+
+
+
+
 ---
 
 ## 🎓 MY LEARNING EXPERIENCE JOURNEY 📚
