@@ -35,9 +35,6 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 </p>
 
-> Solving problems every day to become a better engineer.  
-> Let’s connect on [LeetCode](https://leetcode.com/RamneekK)!
-
 
 
 ---
