@@ -35,6 +35,9 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 </p>
 
+[![RamneekK LeetCode Activity Graph](https://leetcard.jacoblin.cool/RamneekK?ext=heatmap)](https://leetcode.com/RamneekK)
+
+
 ---
 
 ## 🎓 MY LEARNING EXPERIENCE JOURNEY 📚
