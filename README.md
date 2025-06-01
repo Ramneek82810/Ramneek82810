@@ -23,7 +23,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 <h3 align="center">🏆 My LeetCode Badge Collection</h3>
 
 <!-- LeetCode Badges Row -->
-<div style="display: flex; gap: 10 px ;">
+<div style="display: flex; gap: 10 px;">
   <a href="https://leetcode.com/RamneekK/" title="Problem Solving Streak">
     <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="75" height="75" alt="Problem Solving Streak Badge"/>
   </a>
@@ -39,10 +39,8 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   <a href="https://leetcode.com/RamneekK/" title="Daily Coder">
     <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="75" height="75" alt="Daily Coder Badge"/>
   </a>
-  <a href="https://leetcode.com/RamneekK/" title="LeetCode Badge 202505">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="75" height="75" alt="Extra Badge"/>
-  </a>
 </div>
+
 
 
 <p align="center">
