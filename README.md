@@ -24,30 +24,6 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 <!-- LeetCode Badges Row -->
 <p align="center">
-<div style="display: flex; justify-content: center; gap: 10 px; flex-wrap: wrap; margin-top: 10 px;">
-  <a href="https://leetcode.com/RamneekK/" title="Problem Solving Streak">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="75" height="75" alt="Problem Solving Streak Badge"/>
-  </a>
-  <a href="https://leetcode.com/RamneekK/" title="2550 Problems - Dedicated Learner">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="75" height="75" alt="2550 Problems Badge"/>
-  </a>
-  <a href="https://leetcode.com/RamneekK/" title="Algorithm Master">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="75" height="75" alt="Algorithm Master Badge"/>
-  </a>
-  <a href="https://leetcode.com/RamneekK/" title="25100 XP Achieved">
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="75" height="75" alt="25100 XP Badge"/>
-  </a>
-  <a href="https://leetcode.com/RamneekK/" title="Daily Coder">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="75" height="75" alt="Daily Coder Badge"/>
-  </a>
-</div>
-</p>
-
-
-
-
-
-<p align="center">
   <!-- Row 2 -->
   <a href="https://leetcode.com/RamneekK/" title="LeetCode 75 Challenge">
     <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="75" height="75" alt="LC75"/>
