@@ -22,27 +22,28 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 <h3 align="center">🏆 My LeetCode Badge Collection</h3>
 
-<p align="center">
-  <!-- Row 1 -->
-  <a href="https://leetcode.com/RamneekK/" title="Badge: Problem Solving Streak">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="75" height="75" alt="Badge 1"/>
+<!-- LeetCode Badges Row -->
+<div style="display: flex; gap: 10px;">
+  <a href="https://leetcode.com/RamneekK/" title="Problem Solving Streak">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="75" height="75" alt="Problem Solving Streak Badge"/>
   </a>
-  <a href="https://leetcode.com/RamneekK/" title="Badge: 2550 Problems - Dedicated Learner">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="75" height="75" alt="Badge 2"/>
+  <a href="https://leetcode.com/RamneekK/" title="2550 Problems - Dedicated Learner">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="75" height="75" alt="2550 Problems Badge"/>
   </a>
-  <a href="https://leetcode.com/RamneekK/" title="Badge: Algorithm Master">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="75" height="75" alt="Badge 3"/>
+  <a href="https://leetcode.com/RamneekK/" title="Algorithm Master">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="75" height="75" alt="Algorithm Master Badge"/>
   </a>
-  <a href="https://leetcode.com/RamneekK/" title="Badge: 25100 XP Achieved">
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="75" height="75" alt="Badge 4"/>
+  <a href="https://leetcode.com/RamneekK/" title="25100 XP Achieved">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="75" height="75" alt="25100 XP Badge"/>
   </a>
-  <a href="https://leetcode.com/RamneekK/" title="Badge: Daily Coder">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="75" height="75" alt="Badge 5"/>
+  <a href="https://leetcode.com/RamneekK/" title="Daily Coder">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="75" height="75" alt="Daily Coder Badge"/>
   </a>
-  <a href="https://leetcode.com/RamneekK/" title="Badge: Daily Coder">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="75" height="75" alt="Badge 5"/>
+  <a href="https://leetcode.com/RamneekK/" title="LeetCode Badge 202505">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="75" height="75" alt="Extra Badge"/>
   </a>
-</p>
+</div>
+
 
 <p align="center">
   <!-- Row 2 -->
