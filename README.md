@@ -18,7 +18,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/RamneekK?theme=dark">
-</p>
+</p> 
 
 <h3 align="center">🏆 My LeetCode Badge Collection</h3>
 
