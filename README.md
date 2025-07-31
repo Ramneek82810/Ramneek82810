@@ -42,6 +42,9 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   <a href="https://leetcode.com/RamneekK/" title="Top 100 Liked Questions Solved">
     <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="75" height="75" alt="Top 100"/>
   </a>
+  <a href="https://leetcode.com/RamneekK/" title="Top 100 Liked Questions Solved">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="75" height="75" alt="Top 100"/>
+  </a>
 </p>
 
 ---
