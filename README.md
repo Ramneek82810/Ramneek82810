@@ -57,7 +57,7 @@ Plus an impressive roster of others....
 
 
 ## 👷 WHAT I'M CURRENTLY WORKING ON 🔍
-- 🧠 MCP – AI Assistant – Building an intelligent AI super app that combines multiple services like voice interaction, LLM-powered chat, image understanding, and memory tracking. Designed to handle daily tasks, provide smart recommendations, and deliver real-time contextual responses through modular microservices.
+- 🧠 MCP – AI Assistant – Building an intelligent AI super app that combines multiple services like LLM-powered chat, image understanding, and memory tracking. Designed to handle daily tasks, provide smart recommendations, and deliver real-time contextual responses through modular microservices.
   
 ---
 
