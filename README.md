@@ -93,11 +93,11 @@ Plus an impressive roster of others....
 
 
 ## 🌱 MY LATEST PROJECTS 🚀
+- Agentic AI MCP Query Brain 🤖 – Advanced modular AI system using MCP architecture for natural language SQL queries, memory management, and tool-based reasoning.
 - Breast Cancer Classification and Detection 🧬 - GitHub project focusing on detection accuracy and model optimization.
 - Pneumonia Detection on Chest X-ray Images Using Deep Learning 🩺 - Advanced AI project with image analysis.
 - Stock Market Dashboard 📈 - Interactive visualization of stock trends using live market data and analytics.
 - Handwritten Digit Classification ✍️ - Implementing a Convolutional Neural Network (CNN) with the MNIST dataset.
-- Classifying Banknotes as Authentic or Counterfeit 💳 - Utilizing Gaussian Naive Bayes technique.
 ---
 
 ## 🏆 MY LATEST CERTIFICATIONS 📜
