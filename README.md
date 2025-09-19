@@ -52,7 +52,7 @@ Plus an impressive roster of others....
 ---
 
 ## 🎓 MY LEARNING EXPERIENCE JOURNEY 📚
-- B.Tech in Computer Science 🎓 - Chandigarh Group of Colleges, Jhanjeri (Expected '26)
+- B.Tech in Artificial Intelligence and Machine Learning 🎓 - CGC University (Expected '26)
 - Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT 🧠 - Udemy ('24)
 - CS50's Introduction to Artificial Intelligence with Python 🍏 - Harvard University ('24)
 - AI/ML for Geodata Analysis 🌍 - ISRO ('24) (Completed with certificate)
