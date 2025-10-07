@@ -63,7 +63,7 @@ Plus an impressive roster of others....
 
 
 ## 👷 WHAT I'M CURRENTLY WORKING ON 🔍
-- 🧠 MCP – AI Assistant – Building an intelligent AI super app that combines multiple services like LLM-powered chat, image understanding, and memory tracking. Designed to handle daily tasks, provide smart recommendations, and deliver real-time contextual responses through modular microservices.
+- 🧠 SynapseCity – AI Ecosystem – A next-generation intelligent ecosystem built on modular microservices, unifying LLMs, multimodal perception, and contextual memory. SynapseCity acts as an adaptive AI super-framework capable of dynamic reasoning, task orchestration, and real-time interaction across chat, vision, and analytics — designed to power human–AI symbiosis and autonomous digital operations.
   
 ---
 
