@@ -30,8 +30,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   </a>
   <a href="https://leetcode.com/RamneekK/" title="Top 100 Liked Questions Solved">
     <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="75" height="75" alt="Top 100"/>
-  <a href="https://leetcode.com/RamneekK/" title="Top 100 Liked Questions Solved">
-    <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="75" height="75" alt="Top 100"/>
+  
   </a>
 </p>
 <p align="center">
@@ -44,6 +43,8 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   </a>
   <a href="https://leetcode.com/RamneekK/" title="Top 100 Liked Questions Solved">
     <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="75" height="75" alt="Top 100"/>
+  <a href="https://leetcode.com/RamneekK/" title="Top 100 Liked Questions Solved">
+    <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="75" height="75" alt="Top 100"/>
   </a>
 </p>
 
