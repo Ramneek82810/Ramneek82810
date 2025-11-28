@@ -105,6 +105,7 @@ Plus an impressive roster of others....
 
 ## 🏆 MY LATEST CERTIFICATIONS 📜
 
+- AIML internship 📚 - Vartopia Pvt. Ltd.
 - Summer Internship 🎓 - Vartopia Pvt. Ltd. 
 - Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT 🥇 - Udemy
 - CS50's Introduction to Artificial Intelligence with Python 📚 - Harvard University
