@@ -25,11 +25,12 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
 <!-- LeetCode Badges Row -->
 <p align="center">
 
-  <a href="https://leetcode.com/RamneekK/" title="LeetCode 75 Challenge">
-    <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="75" height="75" alt="LC75"/>
-  </a>
+  
    <a href="https://leetcode.com/RamneekK/" title="Top 100 Liked Questions Solved">
     <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" width="75" height="75" alt="Top 100"/>
+  </a>
+  <a href="https://leetcode.com/RamneekK/" title="LeetCode 75 Challenge">
+    <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="75" height="75" alt="LC75"/>
   </a>
     <a href="https://leetcode.com/RamneekK/" title="Top 100 Liked Questions Solved">
     <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="75" height="75" alt="Top 100"/>
