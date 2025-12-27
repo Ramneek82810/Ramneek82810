@@ -1,7 +1,7 @@
 ### <h1> 🌟 Welcome To My GitHub Lab — Where Innovation Intertwines With Imagination! ✨ </h1>
  
 
-![header_](https://github.com/user-attachments/assets/a3869a1b-ceac-4184-9d5a-34abc80e51ac) 
+![header_](https://github.com/user-attachments/assets/a3869a1b-ceac-4184-9d5a-34abc80e51ac)  
   
 ---   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&width=435&lines=Hi+there!+%E2%9C%A8+I+am+Ramneek+Kaur+%E2%9C%A8;Welcome+to+my+profile!+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8F%86)](https://git.io/typing-svg)
