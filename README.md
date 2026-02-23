@@ -50,7 +50,7 @@ Dedicated to applying Artificial Intelligence 🤖 and Machine Learning 🧠 to 
   </a>
 </p>
 
-<p align="center">
+<p align="center">   
 Plus an impressive roster of others....
 </p>
   
